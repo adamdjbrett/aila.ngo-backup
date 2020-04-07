@@ -4,8 +4,7 @@ post_title: Dismantling the Doctrine of Discovery
 author: adamdjbrett
 post_excerpt: ""
 layout: post
-permalink: >
-  https://aila.ngo/dismantling-the-doctrine-of-discovery/
+permalink: /dismantling-the-doctrine-of-discovery/
 published: true
 post_date: 2017-10-30 23:20:00
 ---

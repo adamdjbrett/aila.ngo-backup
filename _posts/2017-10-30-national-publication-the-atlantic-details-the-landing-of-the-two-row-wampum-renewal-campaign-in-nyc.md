@@ -4,8 +4,7 @@ post_title: National publication, The Atlantic
 author: adamdjbrett
 post_excerpt: ""
 layout: post
-permalink: >
-  https://aila.ngo/national-publication-the-atlantic-details-the-landing-of-the-two-row-wampum-renewal-campaign-in-nyc/
+permalink: /national-publication-the-atlantic-details-the-landing-of-the-two-row-wampum-renewal-campaign-in-nyc/
 published: true
 post_date: 2017-10-30 23:35:04
 ---

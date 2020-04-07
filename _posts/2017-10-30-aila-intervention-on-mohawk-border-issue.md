@@ -4,8 +4,7 @@ post_title: AILA Intervention on Mohawk Border issue
 author: adamdjbrett
 post_excerpt: ""
 layout: post
-permalink: >
-  https://aila.ngo/aila-intervention-on-mohawk-border-issue/
+permalink: /aila-intervention-on-mohawk-border-issue/
 published: true
 post_date: 2017-10-30 23:26:20
 ---

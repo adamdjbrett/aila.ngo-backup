@@ -6,8 +6,7 @@ post_title: >
 author: adamdjbrett
 post_excerpt: ""
 layout: post
-permalink: >
-  https://aila.ngo/inaugural-event-for-the-two-row-wampum-renewal-campaign/
+permalink: /inaugural-event-for-the-two-row-wampum-renewal-campaign/
 published: true
 post_date: 2017-10-30 23:29:27
 ---
