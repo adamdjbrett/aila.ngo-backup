@@ -8,41 +8,39 @@ permalink: https://aila.ngo/past-events/
 published: true
 post_date: 2010-12-29 16:15:29
 ---
-<ul>
- 	<li>October 2019, "Haudenosaunee Influence on Women's Rights Movement" a panel discussion with Betty Lyons, Sandra Bigtree, and Sally Roesch-Wagner</li>
- 	<li>October 2019, <a href="https://mediasite.law.syr.edu/Mediasite/Play/039137000f61427c821f767ad7e810c31d">Saving, Protecting Mother Earth for the Seventh Generation unborn</a>, a Syracuse University Law School panel with Betty Lyons and Jake Edwards</li>
- 	<li>May 2019, Syracuse University Law School Panel with Tadodaho Sid Hill and Betty Lyons</li>
- 	<li>April 2019, <a href="https://go.activecalendar.com/FordhamUniversity/site/law/event/environmental-law-review-symposium-1/">Environmental Law Review Symposium Protecting Tribal Land, Water, and Resources. Fordham Law </a>Symposium.</li>
- 	<li>March 26, 2019, <a href="https://aila.ngo/wp-content/uploads/2019/04/leaders-of-color-lunch.jpg">Leaders of Color Lunch Series SU Law</a>, hosted by Inclusion Initiative Committee, Student Affairs &amp; Native American Law Student Association. Guest Speakers: Betty Lyons, Executive Director of the American Indian Law Alliance and Tadodaho Sidney Hill, Haudenosaunee Confederacy.</li>
- 	<li>March 2019, <a href="https://aila.ngo/imposed-borders/">Imposed Borders</a>.</li>
- 	<li>March 2019, <a href="https://www.eventbrite.com/e/the-womens-suffrage-movement-tickets-57611840566?aff=eemailordconf&amp;utm_campaign=order_confirm&amp;utm_medium=email&amp;ref=eemailordconf&amp;utm_source=eb_email&amp;utm_term=viewevent#">The Women's Suffrage Movement by Academic Initiatives and Strategic Innovation</a>.</li>
- 	<li>January 2019, <a href="https://news.syr.edu/blog/2019/01/15/members-of-diversity-council-chancellors-workgroup-and-sustainability-management-tour-great-law-of-peace-center/">Members of Diversity Council, Chancellor’s Workgroup and Sustainability Management Tour Great Law of Peace Center</a>.</li>
- 	<li>November 2018, <a href="https://aila.ngo/betty-lyons-to-speak-at-iona-college/">Iona College</a>.</li>
- 	<li>October 2018, <a href="http://www.cazenovia.edu/news-events/annual-events/wheler-family-conference/betty-lyons">Cazenovia College talk</a>.</li>
- 	<li><a href="https://aila.ngo/peoples-state-union/">Peoples SOTU</a>.</li>
- 	<li>October 2017, <a href="https://aila.ngo/wooden-stick-festival/">Wooden Stick Festival</a>.</li>
- 	<li>September 2007: Featured Speaker, “Roots of Peacemaking: Indigenous Values, Global Crisis”</li>
- 	<li>October 2007: Attended Meeting with "Friends of the Earth"</li>
- 	<li>February 2008: Workshop on the “Implementing the United Nations Declaration on the Rights of Indigenous Peoples” and the “North American Caucus”</li>
- 	<li>November 2008: “Rights Denied: the Struggle for the Sacred and the Sovereign” presented by the NorthEast Two-Spirit Society</li>
- 	<li>January 2009: Honored at the Spirit Awards Dinner organized by the American Indian Community House</li>
- 	<li>March 2009: Panelist "Mobilizing for Survival" hosted by the Smithsonian's National Museum of the American Indian in New York</li>
- 	<li>March 2009: Lecture "UN Permanent Forum Haudenosaunee Roundtable" at Cornell University</li>
- 	<li>October 2009: Participated in Panel Discussion on Violence Against Women hosted by the University of Connecticut at Avery Point</li>
- 	<li>October 2009: Visited Ottawa, Canada as the North American Regional Representative to the United Nations Permanent Forum on Indigenous Issues</li>
- 	<li>November 2009: Participated in "Indigenous People's Rights: Promotion and Implementation of the United Nations Declaration on the Rights of Indigenous Peoples"</li>
- 	<li>December 2009: Attended “Indigenous Assembly: Parliament of the World’s Religions” in Melbourne, Australia</li>
- 	<li>February 2010: Introduction and Q&amp;A for "For the Rights of All: Ending Jim Crow in Alaska"</li>
- 	<li>March 2010: Attended Canadian Human Rights Tribunal on First Nations Child Welfare</li>
- 	<li>April 2010: Special Honoree at "Surviving Three Generations of Removal" at the American Indian Community House in New York City</li>
- 	<li>April 2010: Panelist for James Cameron’s “Real Life ‘Pandoras’ on Earth: Indigenous Peoples Urgent Struggles for Survival</li>
- 	<li>June 2010: Participated in "2010 National Sacred Places Prayer Days" for Protect Native American Sacred Places</li>
- 	<li>November 2010: Film Screening and Panel Discussion of "Indigenous Peoples and the United Nations"</li>
- 	<li>November 2010: Speaker, “Human Rights and Indigenous Peoples” at the Centuries of Change: State of the Native Nations Symposium</li>
- 	<li>December 2010: Attended the Security Council Closing Reception at the United States Mission to the United Nations</li>
- 	<li>January 6-8, 2011: Barbareno Chumash Meeting</li>
- 	<li>March 19-20, 2011: North American Indigenous Peoples Caucus, Blue Lake, California</li>
- 	<li>March 13-14, 2011: Regional Hearing on the Impact of the Doctrine of Discovery presented by the National Human Rights Commission of the Peoples of the United States , Phoenix, Arizona</li>
- 	<li>May 2011: Side-Event, Permanent Forum on Indigenous Issues, "The Doctrine of Discovery: Preparing for 2012"</li>
- 	<li>October 2017: <a href="http://waer.org/post/wood-stick-festival-celebrates-history-lacrosse-cny">Wooden stick festival</a>.</li>
-</ul>
+*   October 2019, "Haudenosaunee Influence on Women's Rights Movement" a panel discussion with Betty Lyons, Sandra Bigtree, and Sally Roesch-Wagner
+*   October 2019, [Saving, Protecting Mother Earth for the Seventh Generation unborn](https://mediasite.law.syr.edu/Mediasite/Play/039137000f61427c821f767ad7e810c31d), a Syracuse University Law School panel with Betty Lyons and Jake Edwards
+*   May 2019, Syracuse University Law School Panel with Tadodaho Sid Hill and Betty Lyons
+*   April 2019, [Environmental Law Review Symposium Protecting Tribal Land, Water, and Resources. Fordham Law](https://go.activecalendar.com/FordhamUniversity/site/law/event/environmental-law-review-symposium-1/) Symposium.
+*   March 26, 2019, [Leaders of Color Lunch Series SU Law](https://aila.ngo/wp-content/uploads/2019/04/leaders-of-color-lunch.jpg), hosted by Inclusion Initiative Committee, Student Affairs & Native American Law Student Association. Guest Speakers: Betty Lyons, Executive Director of the American Indian Law Alliance and Tadodaho Sidney Hill, Haudenosaunee Confederacy.
+*   March 2019, [Imposed Borders](https://aila.ngo/imposed-borders/).
+*   March 2019, [The Women's Suffrage Movement by Academic Initiatives and Strategic Innovation](https://www.eventbrite.com/e/the-womens-suffrage-movement-tickets-57611840566?aff=eemailordconf&utm_campaign=order_confirm&utm_medium=email&ref=eemailordconf&utm_source=eb_email&utm_term=viewevent#).
+*   January 2019, [Members of Diversity Council, Chancellor’s Workgroup and Sustainability Management Tour Great Law of Peace Center](https://news.syr.edu/blog/2019/01/15/members-of-diversity-council-chancellors-workgroup-and-sustainability-management-tour-great-law-of-peace-center/).
+*   November 2018, [Iona College](https://aila.ngo/betty-lyons-to-speak-at-iona-college/).
+*   October 2018, [Cazenovia College talk](http://www.cazenovia.edu/news-events/annual-events/wheler-family-conference/betty-lyons).
+*   [Peoples SOTU](https://aila.ngo/peoples-state-union/).
+*   October 2017, [Wooden Stick Festival](https://aila.ngo/wooden-stick-festival/).
+*   September 2007: Featured Speaker, “Roots of Peacemaking: Indigenous Values, Global Crisis”
+*   October 2007: Attended Meeting with "Friends of the Earth"
+*   February 2008: Workshop on the “Implementing the United Nations Declaration on the Rights of Indigenous Peoples” and the “North American Caucus”
+*   November 2008: “Rights Denied: the Struggle for the Sacred and the Sovereign” presented by the NorthEast Two-Spirit Society
+*   January 2009: Honored at the Spirit Awards Dinner organized by the American Indian Community House
+*   March 2009: Panelist "Mobilizing for Survival" hosted by the Smithsonian's National Museum of the American Indian in New York
+*   March 2009: Lecture "UN Permanent Forum Haudenosaunee Roundtable" at Cornell University
+*   October 2009: Participated in Panel Discussion on Violence Against Women hosted by the University of Connecticut at Avery Point
+*   October 2009: Visited Ottawa, Canada as the North American Regional Representative to the United Nations Permanent Forum on Indigenous Issues
+*   November 2009: Participated in "Indigenous People's Rights: Promotion and Implementation of the United Nations Declaration on the Rights of Indigenous Peoples"
+*   December 2009: Attended “Indigenous Assembly: Parliament of the World’s Religions” in Melbourne, Australia
+*   February 2010: Introduction and Q&A for "For the Rights of All: Ending Jim Crow in Alaska"
+*   March 2010: Attended Canadian Human Rights Tribunal on First Nations Child Welfare
+*   April 2010: Special Honoree at "Surviving Three Generations of Removal" at the American Indian Community House in New York City
+*   April 2010: Panelist for James Cameron’s “Real Life ‘Pandoras’ on Earth: Indigenous Peoples Urgent Struggles for Survival
+*   June 2010: Participated in "2010 National Sacred Places Prayer Days" for Protect Native American Sacred Places
+*   November 2010: Film Screening and Panel Discussion of "Indigenous Peoples and the United Nations"
+*   November 2010: Speaker, “Human Rights and Indigenous Peoples” at the Centuries of Change: State of the Native Nations Symposium
+*   December 2010: Attended the Security Council Closing Reception at the United States Mission to the United Nations
+*   January 6-8, 2011: Barbareno Chumash Meeting
+*   March 19-20, 2011: North American Indigenous Peoples Caucus, Blue Lake, California
+*   March 13-14, 2011: Regional Hearing on the Impact of the Doctrine of Discovery presented by the National Human Rights Commission of the Peoples of the United States , Phoenix, Arizona
+*   May 2011: Side-Event, Permanent Forum on Indigenous Issues, "The Doctrine of Discovery: Preparing for 2012"
+*   October 2017: [Wooden stick festival](http://waer.org/post/wood-stick-festival-celebrates-history-lacrosse-cny).

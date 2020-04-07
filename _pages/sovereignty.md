@@ -8,5 +8,6 @@ permalink: https://aila.ngo/issues/sovereignty/
 published: true
 post_date: 2017-10-15 18:31:43
 ---
-<h3>Indigenous Peoples right to Self-determination, Sovereignty, &amp; Treaty Rights</h3>
+### Indigenous Peoples right to Self-determination, Sovereignty, & Treaty Rights
+
 More info coming soon...

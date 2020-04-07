@@ -11,6 +11,5 @@ permalink: >
 published: true
 post_date: 2018-06-22 16:02:52
 ---
-[icon image="fa fa-share-square-o" size="medium" url="https://www.nytimes.com/2018/06/22/nyregion/cicadas-return-onondaga-nation.html"] [/icon] <a href="https://www.nytimes.com/2018/06/22/nyregion/cicadas-return-onondaga-nation.html">A Story of Survival Revived by the Cicadas’ Loud (and Crunchy) Return</a>
-
+[A Story of Survival Revived by the Cicadas’ Loud (and Crunchy) Return](https://www.nytimes.com/2018/06/22/nyregion/cicadas-return-onondaga-nation.html)
 &nbsp;
