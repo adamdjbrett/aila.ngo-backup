@@ -4,7 +4,7 @@ post_title: 'The People&#8217;s State of the Union'
 author: adamdjbrett
 post_excerpt: ""
 layout: post
-/peoples-state-union/
+permalink: /peoples-state-union/
 published: true
 post_date: 2018-02-02 08:47:49
 ---

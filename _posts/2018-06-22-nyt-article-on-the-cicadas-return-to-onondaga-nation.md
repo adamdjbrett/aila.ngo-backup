@@ -6,8 +6,7 @@ post_title: >
 author: Betty Lyons
 post_excerpt: ""
 layout: post
-permalink: >
-  https://aila.ngo/nyt-article-on-the-cicadas-return-to-onondaga-nation/
+permalink: /nyt-article-on-the-cicadas-return-to-onondaga-nation/
 published: true
 post_date: 2018-06-22 16:02:52
 ---

@@ -4,8 +4,7 @@ post_title: 'Event Cancelled: Haudenosaunee Women&#8217;s Influence'
 author: adamdjbrett
 post_excerpt: ""
 layout: post
-permalink: >
-  https://aila.ngo/event-cancelled-haudenosaunee-womens-influence/
+permalink: /event-cancelled-haudenosaunee-womens-influence/
 published: true
 post_date: 2020-03-05 12:06:44
 ---

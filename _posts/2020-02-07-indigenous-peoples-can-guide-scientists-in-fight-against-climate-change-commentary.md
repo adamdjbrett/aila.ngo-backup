@@ -7,8 +7,7 @@ post_title: >
 author: adamdjbrett
 post_excerpt: ""
 layout: post
-permalink: >
-  https://aila.ngo/indigenous-peoples-can-guide-scientists-in-fight-against-climate-change-commentary/
+permalink: /indigenous-peoples-can-guide-scientists-in-fight-against-climate-change-commentary/
 published: true
 post_date: 2020-02-07 16:10:26
 ---

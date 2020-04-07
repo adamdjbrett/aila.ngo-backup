@@ -6,8 +6,7 @@ post_title: >
 author: adamdjbrett
 post_excerpt: ""
 layout: post
-permalink: >
-  https://aila.ngo/urgent-action-request-to-unhchr-regional-office-for-central-america/
+permalink: /urgent-action-request-to-unhchr-regional-office-for-central-america/
 published: true
 post_date: 2019-05-07 19:05:36
 ---

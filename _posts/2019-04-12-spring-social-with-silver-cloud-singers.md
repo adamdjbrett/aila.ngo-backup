@@ -4,8 +4,7 @@ post_title: Spring Social with Silver Cloud Singers
 author: adamdjbrett
 post_excerpt: ""
 layout: post
-permalink: >
-  https://aila.ngo/spring-social-with-silver-cloud-singers/
+permalink: /spring-social-with-silver-cloud-singers/
 published: true
 post_date: 2019-04-12 14:43:26
 ---

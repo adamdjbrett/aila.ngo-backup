@@ -4,8 +4,7 @@ post_title: Betty Lyons to Speak at Iona College
 author: adamdjbrett
 post_excerpt: ""
 layout: post
-permalink: >
-  https://aila.ngo/betty-lyons-to-speak-at-iona-college/
+permalink: /betty-lyons-to-speak-at-iona-college/
 published: true
 post_date: 2018-11-04 12:50:14
 ---

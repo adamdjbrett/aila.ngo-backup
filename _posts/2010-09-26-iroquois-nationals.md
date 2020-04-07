@@ -21,7 +21,7 @@ permalink: /iroquois-nationals/
 published: true
 post_date: 2010-09-26 07:49:43
 ---
-Media List:
+## Media List:
 
 The media listed below represent the major articles, videos, and audio recordings of the over 2300 listed on Google News regarding the Iroquois Nationals.  These were created by international news media between July 8 and July 19th, 2010.  They are found in chronological order, with alphabetical order by day.  Stories are included without any analysis of content, pro or against, although the against are few and far between.  Our list was compiled by Lindsay Speer.
 

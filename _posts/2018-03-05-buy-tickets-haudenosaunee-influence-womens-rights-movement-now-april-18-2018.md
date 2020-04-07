@@ -4,8 +4,7 @@ post_title: 'Buy tickets: Haudenosaunee Influence on Early Feminism'
 author: American Indian Law Alliance
 post_excerpt: ""
 layout: post
-permalink: >
-  https://aila.ngo/buy-tickets-haudenosaunee-influence-womens-rights-movement-now-april-18-2018/
+permalink: /buy-tickets-haudenosaunee-influence-womens-rights-movement-now-april-18-2018/
 published: true
 post_date: 2018-03-05 14:16:49
 ---

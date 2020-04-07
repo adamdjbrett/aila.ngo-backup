@@ -4,7 +4,7 @@ post_title: NYC, Wells Fargo, and the DAPL
 author: adamdjbrett
 post_excerpt: ""
 layout: post
-/nyc-wells-fargo-dapl/
+permalink: /nyc-wells-fargo-dapl/
 published: true
 post_date: 2018-02-02 09:00:31
 ---

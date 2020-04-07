@@ -4,8 +4,7 @@ post_title: 'Happy Indigenous People&#8217;s Day'
 author: Betty Lyons
 post_excerpt: ""
 layout: post
-permalink: >
-  https://aila.ngo/happy-indigenous-peoples-day/
+permalink: /happy-indigenous-peoples-day/
 published: true
 post_date: 2018-10-08 13:07:50
 ---

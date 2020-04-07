@@ -6,8 +6,7 @@ post_title: >
 author: adamdjbrett
 post_excerpt: ""
 layout: post
-permalink: >
-  https://aila.ngo/doctrine-of-discovery-and-colonial-terrorism/
+permalink: /doctrine-of-discovery-and-colonial-terrorism/
 published: true
 post_date: 2019-04-26 14:38:44
 ---
@@ -25,7 +24,7 @@ _Speaking our truth, singing of those who slipped between the privileged pages o
 _Loving new generations into being_  
 _New bearers of the flame_  
 _That never dies_.
-  
+
 ### The Doctrine of Discovery and Colonial Terrorism: A Dialogue Between Sovereign Women, Weaving Indigenous Truths Across Time and Space.
 
 *   Tuesday 30 April, 2019.

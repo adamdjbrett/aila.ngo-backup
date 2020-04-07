@@ -4,7 +4,7 @@ post_title: Water is Sacred
 author: adamdjbrett
 post_excerpt: ""
 layout: post
-/water-is-sacred/
+permalink: /water-is-sacred/
 published: true
 post_date: 2017-10-31 00:10:41
 ---

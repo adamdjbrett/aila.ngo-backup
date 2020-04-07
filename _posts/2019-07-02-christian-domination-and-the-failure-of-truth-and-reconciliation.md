@@ -6,8 +6,7 @@ post_title: >
 author: adamdjbrett
 post_excerpt: ""
 layout: post
-permalink: >
-  https://aila.ngo/christian-domination-and-the-failure-of-truth-and-reconciliation/
+permalink: /christian-domination-and-the-failure-of-truth-and-reconciliation/
 published: true
 post_date: 2019-07-02 13:18:53
 ---

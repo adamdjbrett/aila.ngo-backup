@@ -4,7 +4,7 @@ post_title: Imposed Borders
 author: adamdjbrett
 post_excerpt: ""
 layout: post
-/imposed-borders/
+permalink: /imposed-borders/
 published: true
 post_date: 2019-03-14 15:57:43
 ---

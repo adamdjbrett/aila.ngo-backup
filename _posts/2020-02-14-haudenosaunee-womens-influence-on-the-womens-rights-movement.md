@@ -4,8 +4,7 @@ post_title: 'Haudenosaunee Women&#8217;s Influence on The Women&#8217;s Rights M
 author: adamdjbrett
 post_excerpt: ""
 layout: post
-permalink: >
-  https://aila.ngo/haudenosaunee-womens-influence-on-the-womens-rights-movement/
+permalink: /haudenosaunee-womens-influence-on-the-womens-rights-movement/
 published: true
 post_date: 2020-02-14 09:18:10
 ---

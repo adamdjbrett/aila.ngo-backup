@@ -4,8 +4,7 @@ post_title: 'Op-Ed: Dreamers must be protected – as Indigenous Peoples were no
 author: American Indian Law Alliance
 post_excerpt: ""
 layout: post
-permalink: >
-  https://aila.ngo/op-ed-dreamers-must-protected-indigenous-peoples-not/
+permalink: /op-ed-dreamers-must-protected-indigenous-peoples-not/
 published: true
 post_date: 2018-03-05 14:25:13
 ---

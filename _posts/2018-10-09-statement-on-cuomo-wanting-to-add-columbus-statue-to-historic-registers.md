@@ -6,8 +6,7 @@ post_title: >
 author: Betty Lyons
 post_excerpt: ""
 layout: post
-permalink: >
-  https://aila.ngo/statement-on-cuomo-wanting-to-add-columbus-statue-to-historic-registers/
+permalink: /statement-on-cuomo-wanting-to-add-columbus-statue-to-historic-registers/
 published: true
 post_date: 2018-10-09 16:39:23
 ---

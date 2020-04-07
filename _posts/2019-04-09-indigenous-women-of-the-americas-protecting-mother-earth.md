@@ -6,8 +6,7 @@ post_title: >
 author: adamdjbrett
 post_excerpt: ""
 layout: post
-permalink: >
-  https://aila.ngo/indigenous-women-of-the-americas-protecting-mother-earth/
+permalink: permalink: /indigenous-women-of-the-americas-protecting-mother-earth/
 published: true
 post_date: 2019-04-09 14:28:28
 ---

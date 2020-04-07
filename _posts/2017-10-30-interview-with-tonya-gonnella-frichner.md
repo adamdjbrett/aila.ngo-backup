@@ -4,8 +4,7 @@ post_title: Interview with Tonya Gonnella Frichner
 author: adamdjbrett
 post_excerpt: ""
 layout: post
-permalink: >
-  https://aila.ngo/interview-with-tonya-gonnella-frichner/
+permalink: /interview-with-tonya-gonnella-frichner/
 published: true
 post_date: 2017-10-30 23:31:23
 ---

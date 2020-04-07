@@ -4,8 +4,7 @@ post_title: 'Nuclear Reactors are not &#8220;Green&#8221;'
 author: adamdjbrett
 post_excerpt: ""
 layout: post
-permalink: >
-  https://aila.ngo/nuclear-reactors-are-not-green/
+permalink: /nuclear-reactors-are-not-green/
 published: true
 post_date: 2019-03-27 17:24:21
 ---

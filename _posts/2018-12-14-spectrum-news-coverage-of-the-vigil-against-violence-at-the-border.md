@@ -6,8 +6,7 @@ post_title: >
 author: adamdjbrett
 post_excerpt: ""
 layout: post
-permalink: >
-  https://aila.ngo/spectrum-news-coverage-of-the-vigil-against-violence-at-the-border/
+permalink: /spectrum-news-coverage-of-the-vigil-against-violence-at-the-border/
 published: true
 post_date: 2018-12-14 15:31:23
 ---

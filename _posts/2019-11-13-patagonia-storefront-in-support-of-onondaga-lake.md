@@ -6,8 +6,7 @@ post_title: >
 author: adamdjbrett
 post_excerpt: ""
 layout: post
-permalink: >
-  https://aila.ngo/patagonia-storefront-in-support-of-onondaga-lake/
+permalink: /patagonia-storefront-in-support-of-onondaga-lake/
 published: true
 post_date: 2019-11-13 11:08:57
 ---

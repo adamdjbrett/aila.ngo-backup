@@ -6,8 +6,7 @@ post_title: >
 author: adamdjbrett
 post_excerpt: ""
 layout: post
-permalink: >
-  https://aila.ngo/calling-cuomo-save-eagles-halt-pipeline/
+permalink: /calling-cuomo-save-eagles-halt-pipeline/
 published: true
 post_date: 2018-02-02 00:00:06
 ---

@@ -4,8 +4,7 @@ post_title: Meeting with UN Secretary-General
 author: adamdjbrett
 post_excerpt: ""
 layout: post
-permalink: >
-  https://aila.ngo/meeting-united-nations-secretary-general-ban-ki-moon/
+permalink: /meeting-united-nations-secretary-general-ban-ki-moon/
 published: true
 post_date: 2018-02-01 23:40:02
 ---
