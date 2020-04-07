@@ -1,10 +1,10 @@
 ---
 ID: 758
 post_title: Privacy Policy
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
-permalink: https://aila.ngo/privacy-policy/
+/privacy-policy/
 published: true
 post_date: 2018-02-01 21:11:12
 ---

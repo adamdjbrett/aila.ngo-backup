@@ -1,7 +1,7 @@
 ---
 ID: 51
 post_title: Iroquois Nationals Passport/Visa Dispute
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: >
   The media listed below represent the
   major articles, videos, and audio
@@ -17,7 +17,7 @@ post_excerpt: >
   and far between. Our list was compiled
   by Lindsay Speer.
 layout: post
-permalink: https://aila.ngo/iroquois-nationals/
+permalink: /iroquois-nationals/
 published: true
 post_date: 2010-09-26 07:49:43
 ---

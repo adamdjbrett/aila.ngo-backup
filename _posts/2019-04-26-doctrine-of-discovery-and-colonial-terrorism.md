@@ -3,7 +3,7 @@ ID: 4209
 post_title: >
   Doctrine of Discovery and Colonial
   Terrorism
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
 permalink: >

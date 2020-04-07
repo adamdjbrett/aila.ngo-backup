@@ -1,7 +1,7 @@
 ---
 ID: 3897
 post_title: 'Nuclear Reactors are not &#8220;Green&#8221;'
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
 permalink: >

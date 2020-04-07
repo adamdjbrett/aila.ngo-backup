@@ -1,10 +1,10 @@
 ---
 ID: 18
 post_title: Documents
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
-permalink: https://aila.ngo/documents/
+/documents/
 published: true
 post_date: 2010-09-26 06:54:36
 ---

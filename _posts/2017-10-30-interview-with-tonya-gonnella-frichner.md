@@ -1,7 +1,7 @@
 ---
 ID: 586
 post_title: Interview with Tonya Gonnella Frichner
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
 permalink: >

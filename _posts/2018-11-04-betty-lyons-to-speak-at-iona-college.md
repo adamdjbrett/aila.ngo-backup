@@ -1,7 +1,7 @@
 ---
 ID: 2267
 post_title: Betty Lyons to Speak at Iona College
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 806
 post_title: Meeting with UN Secretary-General
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
 permalink: >

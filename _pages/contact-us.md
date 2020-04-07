@@ -1,10 +1,10 @@
 ---
 ID: 12
 post_title: Contact Us
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
-permalink: https://aila.ngo/contact-us/
+/contact-us/
 published: true
 post_date: 2010-09-24 00:12:37
 ---

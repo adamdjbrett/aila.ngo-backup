@@ -1,7 +1,7 @@
 ---
 ID: 6925
 post_title: 'Haudenosaunee Women&#8217;s Influence on The Women&#8217;s Rights Movement'
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
 permalink: >

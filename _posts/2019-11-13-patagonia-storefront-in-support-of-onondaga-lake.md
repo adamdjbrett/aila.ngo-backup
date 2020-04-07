@@ -3,7 +3,7 @@ ID: 6141
 post_title: >
   Patagonia Storefront in Support of
   Onondaga Lake
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
 permalink: >

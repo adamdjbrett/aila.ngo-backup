@@ -1,10 +1,10 @@
 ---
 ID: 445
 post_title: 'Women&#8217;s Rights'
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
-permalink: https://aila.ngo/issues/womens-rights/
+/issues/womens-rights/
 published: true
 post_date: 2017-10-15 18:54:34
 ---

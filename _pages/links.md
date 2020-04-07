@@ -1,10 +1,10 @@
 ---
 ID: 70
 post_title: Links
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
-permalink: https://aila.ngo/links/
+/links/
 published: true
 post_date: 2010-09-27 06:30:50
 ---

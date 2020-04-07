@@ -1,11 +1,10 @@
 ---
 ID: 509
 post_title: Petition to Abolish Columbus Day
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
-permalink: >
-  https://aila.ngo/petition-to-abolish-columbus-day/
+permalink: /petition-to-abolish-columbus-day/
 published: true
 post_date: 2017-10-15 19:29:18
 ---

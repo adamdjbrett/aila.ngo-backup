@@ -1,7 +1,7 @@
 ---
 ID: 7069
 post_title: 'The 2020 Global Indigenous Women&#8217;s Caucus'
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,10 +1,10 @@
 ---
 ID: 826
 post_title: NYC, Wells Fargo, and the DAPL
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
-permalink: https://aila.ngo/nyc-wells-fargo-dapl/
+/nyc-wells-fargo-dapl/
 published: true
 post_date: 2018-02-02 09:00:31
 ---

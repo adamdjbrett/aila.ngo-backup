@@ -1,10 +1,10 @@
 ---
 ID: 202
 post_title: Iroquois Nationals Passport and Visa Issue
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
-permalink: https://aila.ngo/news-3/
+/news-3/
 published: true
 post_date: 2010-12-31 20:19:41
 ---

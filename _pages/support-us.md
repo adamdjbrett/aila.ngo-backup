@@ -1,10 +1,10 @@
 ---
 ID: 508
 post_title: Support Us
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
-permalink: https://aila.ngo/support-us/
+/support-us/
 published: true
 post_date: 2017-10-15 19:26:00
 ---

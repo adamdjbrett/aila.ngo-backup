@@ -4,7 +4,7 @@ post_title: >
   Indigenous peoples can guide scientists
   in fight against climate change
   (Commentary)
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
 permalink: >

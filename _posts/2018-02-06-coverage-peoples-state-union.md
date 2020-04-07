@@ -1,7 +1,7 @@
 ---
 ID: 855
 post_title: 'Coverage from the People&#8217;s State of the Union'
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
 permalink: >

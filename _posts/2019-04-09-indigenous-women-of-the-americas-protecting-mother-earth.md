@@ -3,7 +3,7 @@ ID: 4050
 post_title: >
   Indigenous Women of the Americas
   Protecting Mother Earth
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
 permalink: >

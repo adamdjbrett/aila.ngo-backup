@@ -3,7 +3,7 @@ ID: 4833
 post_title: >
   Christian Domination and the Failure of
   ‘Truth and Reconciliation’
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
 permalink: >

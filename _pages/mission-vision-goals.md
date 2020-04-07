@@ -1,7 +1,7 @@
 ---
 ID: 764
 post_title: 'Purpose, Vision &#038; Goals'
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
 permalink: >

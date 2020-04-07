@@ -1,10 +1,10 @@
 ---
 ID: 104
 post_title: Past Events
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
-permalink: https://aila.ngo/past-events/
+/past-events/
 published: true
 post_date: 2010-12-29 16:15:29
 ---

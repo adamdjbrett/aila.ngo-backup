@@ -1,7 +1,7 @@
 ---
 ID: 413
 post_title: 'In Memoriam: Tonya Gonnella Frichner'
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
 permalink: >

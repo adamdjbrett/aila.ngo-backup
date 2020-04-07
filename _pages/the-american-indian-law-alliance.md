@@ -1,7 +1,7 @@
 ---
 ID: 7
 post_title: Home
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
 permalink: >

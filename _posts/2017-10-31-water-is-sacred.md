@@ -1,10 +1,10 @@
 ---
 ID: 624
 post_title: Water is Sacred
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
-permalink: https://aila.ngo/water-is-sacred/
+/water-is-sacred/
 published: true
 post_date: 2017-10-31 00:10:41
 ---

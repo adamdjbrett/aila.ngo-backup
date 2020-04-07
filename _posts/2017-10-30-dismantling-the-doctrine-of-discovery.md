@@ -1,7 +1,7 @@
 ---
 ID: 576
 post_title: Dismantling the Doctrine of Discovery
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
 permalink: >

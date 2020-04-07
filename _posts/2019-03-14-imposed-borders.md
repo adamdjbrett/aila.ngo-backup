@@ -1,10 +1,10 @@
 ---
 ID: 3788
 post_title: Imposed Borders
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
-permalink: https://aila.ngo/imposed-borders/
+/imposed-borders/
 published: true
 post_date: 2019-03-14 15:57:43
 ---

@@ -1,7 +1,7 @@
 ---
 ID: 588
 post_title: National publication, The Atlantic
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 813
 post_title: The Fight for Indigenous Peoples Day
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
 permalink: >

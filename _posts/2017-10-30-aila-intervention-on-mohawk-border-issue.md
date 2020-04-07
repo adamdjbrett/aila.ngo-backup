@@ -1,7 +1,7 @@
 ---
 ID: 581
 post_title: AILA Intervention on Mohawk Border issue
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
 permalink: >

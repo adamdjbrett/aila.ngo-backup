@@ -1,10 +1,10 @@
 ---
 ID: 425
 post_title: Sovereignty
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
-permalink: https://aila.ngo/issues/sovereignty/
+/issues/sovereignty/
 published: true
 post_date: 2017-10-15 18:31:43
 ---

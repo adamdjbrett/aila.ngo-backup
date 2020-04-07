@@ -1,10 +1,10 @@
 ---
 ID: 5837
 post_title: Remembering Esmeralda
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
-permalink: https://aila.ngo/remembering-esmeralda/
+/remembering-esmeralda/
 published: true
 post_date: 2019-10-15 13:33:47
 ---

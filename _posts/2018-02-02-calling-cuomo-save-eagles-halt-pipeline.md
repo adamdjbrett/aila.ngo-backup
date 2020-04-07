@@ -3,7 +3,7 @@ ID: 809
 post_title: >
   Calling on Cuomo to save Eagles and halt
   pipeline
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
 permalink: >

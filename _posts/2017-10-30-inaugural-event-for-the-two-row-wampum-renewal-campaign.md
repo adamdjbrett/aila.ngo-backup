@@ -3,7 +3,7 @@ ID: 584
 post_title: >
   Inaugural event for the Two Row Wampum
   Renewal Campaign
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
 permalink: >

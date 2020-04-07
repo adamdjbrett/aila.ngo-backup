@@ -1,10 +1,10 @@
 ---
 ID: 391
 post_title: Issues
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
-permalink: https://aila.ngo/issues/
+/issues/
 published: true
 post_date: 2017-10-15 17:21:32
 ---

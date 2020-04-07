@@ -1,10 +1,10 @@
 ---
 ID: 879
 post_title: About
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
-permalink: https://aila.ngo/about/
+/about/
 published: true
 post_date: 2010-09-23 06:45:44
 ---

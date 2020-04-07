@@ -3,7 +3,7 @@ ID: 2517
 post_title: >
   Spectrum News Coverage of the Vigil
   Against Violence at the border
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
 permalink: >

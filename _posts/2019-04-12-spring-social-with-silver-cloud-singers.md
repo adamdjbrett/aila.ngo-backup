@@ -1,7 +1,7 @@
 ---
 ID: 4075
 post_title: Spring Social with Silver Cloud Singers
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
 permalink: >

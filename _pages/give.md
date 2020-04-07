@@ -4,7 +4,7 @@ post_title: Give
 author: American Indian Law Alliance
 post_excerpt: ""
 layout: page
-permalink: https://aila.ngo/give/
+/give/
 published: true
 post_date: 2018-03-01 10:40:33
 ---

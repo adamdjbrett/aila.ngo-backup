@@ -1,7 +1,7 @@
 ---
 ID: 7137
 post_title: 'Event Cancelled: Haudenosaunee Women&#8217;s Influence'
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,10 +1,10 @@
 ---
 ID: 411
 post_title: 'Indigenous People&#8217;s Day'
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
-permalink: https://aila.ngo/indigenous-peoples-day/
+permalink: /indigenous-peoples-day/
 published: true
 post_date: 2017-10-15 18:02:31
 ---

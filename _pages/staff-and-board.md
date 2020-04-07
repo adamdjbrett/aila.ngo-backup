@@ -4,7 +4,7 @@ post_title: Staff and Board
 author: American Indian Law Alliance
 post_excerpt: ""
 layout: page
-permalink: https://aila.ngo/staff-and-board/
+/staff-and-board/
 published: true
 post_date: 2018-03-07 19:03:48
 ---

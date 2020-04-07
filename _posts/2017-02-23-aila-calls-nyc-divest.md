@@ -1,11 +1,11 @@
 ---
 ID: 884
 post_title: AILA calls on NYC to Divest
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: post
-image: https://aila.ngo/wp-content/uploads/2018/02/mayor-de-blasio-support-NODAPL-water-life.jpg
-permalink: https://aila.ngo/aila-calls-nyc-divest/
+image: /wp-content/uploads/2018/02/mayor-de-blasio-support-NODAPL-water-life.jpg
+permalink: /aila-calls-nyc-divest/
 published: true
 post_date: 2017-02-23 16:45:18
 ---
