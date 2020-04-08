@@ -1,11 +1,8 @@
 ---
-ID: 849
-post_title: Wooden Stick Festival
+title: Wooden Stick Festival
 author: adamdjbrett
-post_excerpt: ""
-layout: post
+tags: []
 permalink: /wooden-stick-festival/
-published: true
-post_date: 2017-10-02 15:16:22
+date: 2017-10-02 15:16:22
 ---
 AILA was proud to be a sponsor of the [2017 Wooden Stick Festival](http://waer.org/post/wood-stick-festival-celebrates-history-lacrosse-cny).

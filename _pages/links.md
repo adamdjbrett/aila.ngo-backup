@@ -1,12 +1,7 @@
 ---
-ID: 70
-post_title: Links
-author: adamdjbrett
-post_excerpt: ""
-layout: page
-/links/
-published: true
-post_date: 2010-09-27 06:30:50
+title: Links
+permalink: /links/
+date: 2010-09-27 06:30:50
 ---
 AILA invites you to visit the websites of other organizations working on indigenous peoples issues.
 

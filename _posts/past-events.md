@@ -1,12 +1,8 @@
 ---
-ID: 104
-post_title: Past Events
+title: Past Events
 author: adamdjbrett
-post_excerpt: ""
-layout: page
-/past-events/
-published: true
-post_date: 2010-12-29 16:15:29
+permalink: /past-events/
+date: 2020-04-06 16:15:29
 ---
 *   October 2019, "Haudenosaunee Influence on Women's Rights Movement" a panel discussion with Betty Lyons, Sandra Bigtree, and Sally Roesch-Wagner
 *   October 2019, [Saving, Protecting Mother Earth for the Seventh Generation unborn](https://mediasite.law.syr.edu/Mediasite/Play/039137000f61427c821f767ad7e810c31d), a Syracuse University Law School panel with Betty Lyons and Jake Edwards

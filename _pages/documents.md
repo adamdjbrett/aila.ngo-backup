@@ -1,12 +1,8 @@
 ---
-ID: 18
-post_title: Documents
+title: Documents
 author: adamdjbrett
-post_excerpt: ""
-layout: page
-/documents/
-published: true
-post_date: 2010-09-26 06:54:36
+permalink: /documents/
+date: 2010-09-26 06:54:36
 ---
 ## American Indian Law Alliance Document Archive
 ### All PDFS unless otherwise noted.

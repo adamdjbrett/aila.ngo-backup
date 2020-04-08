@@ -1,12 +1,12 @@
 ---
 ID: 947
-post_title: Give
+title: Give
 author: American Indian Law Alliance
 post_excerpt: ""
-layout: page
+
 /give/
-published: true
-post_date: 2018-03-01 10:40:33
+
+date: 2018-03-01 10:40:33
 ---
 Please consider Giving to American Indian Law Alliance (AILA) in order to assist us in our work.
 

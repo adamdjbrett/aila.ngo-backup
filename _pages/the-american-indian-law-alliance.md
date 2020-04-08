@@ -1,13 +1,7 @@
 ---
-ID: 7
-post_title: Home
-author: adamdjbrett
-post_excerpt: ""
-layout: page
-permalink: >
-  https://aila.ngo/the-american-indian-law-alliance/
-published: true
-post_date: 2010-09-23 07:03:37
+title: Home
+permalink: /the-american-indian-law-alliance/
+date: 2010-09-23 07:03:37
 ---
 The American Indian Law Alliance was founded in 1989 by Tonya Gonnella Frichner (Onondaga, Snipe Clan). It is an indigenous, non-profit organization that works with Indigenous nations, communities and organizations in our struggle for sovereignty, human rights and social justice for our peoples. We support our elders and leaders and are accountable to the communities we serve. We welcome our allies, while remaining committed to our original instructions handed down through generations of ancestors in order to preserve Indigenous traditions for our descendants.
 

@@ -1,12 +1,9 @@
 ---
-ID: 834
-post_title: 'The People&#8217;s State of the Union'
+title: 'The People&#8217;s State of the Union'
 author: adamdjbrett
-post_excerpt: ""
-layout: post
 permalink: /peoples-state-union/
-published: true
-post_date: 2018-02-02 08:47:49
+tags: []
+date: 2018-02-02 08:47:49
 ---
 
 We were honored to be part of the Peoples State of the Union on Monday, January 29, 2018 and to provide an Indigenous opening to the event.

@@ -1,12 +1,12 @@
 ---
 ID: 3788
-post_title: Imposed Borders
+title: Imposed Borders
 author: adamdjbrett
-post_excerpt: ""
-layout: post
+
+
 permalink: /imposed-borders/
-published: true
-post_date: 2019-03-14 15:57:43
+tags: []
+date: 2019-03-14 15:57:43
 ---
 Imposed Borders of Colonialism: Violence against Indigenous Women, Indigenous Girls and Mother Earth
 

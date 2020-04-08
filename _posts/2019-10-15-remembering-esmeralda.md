@@ -1,12 +1,12 @@
 ---
 ID: 5837
-post_title: Remembering Esmeralda
+title: Remembering Esmeralda
 author: adamdjbrett
-post_excerpt: ""
-layout: post
+
+
 permalink: /remembering-esmeralda/
-published: true
-post_date: 2019-10-15 13:33:47
+tags: []
+date: 2019-10-15 13:33:47
 ---
 What a gift to know a giant among humans.
 

@@ -1,12 +1,12 @@
 ---
 ID: 7069
-post_title: 'The 2020 Global Indigenous Women&#8217;s Caucus'
+title: 'The 2020 Global Indigenous Women&#8217;s Caucus'
 author: adamdjbrett
-post_excerpt: ""
-layout: post
+
+
 permalink: /the-2020-global-indigenous-womens-caucus/
-published: true
-post_date: 2020-02-28 16:48:52
+tags: []
+date: 2020-02-28 16:48:52
 ---
 ## 19th Annual Global Indigenous Women’s Caucus
 

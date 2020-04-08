@@ -1,12 +1,9 @@
 ---
-ID: 826
-post_title: NYC, Wells Fargo, and the DAPL
+title: NYC, Wells Fargo, and the DAPL
 author: adamdjbrett
-post_excerpt: ""
-layout: post
 permalink: /nyc-wells-fargo-dapl/
-published: true
-post_date: 2018-02-02 09:00:31
+tags: []
+date: 2018-02-02 09:00:31
 ---
 Coverage of our efforts to get NYC to pull money from Wells Fargo over their funding of DAPL: Coverage from event:
 

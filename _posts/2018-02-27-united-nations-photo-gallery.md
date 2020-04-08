@@ -1,12 +1,9 @@
 ---
-ID: 944
-post_title: United Nations Photo Gallery
-author: American Indian Law Alliance
-post_excerpt: ""
-layout: post
+title: United Nations Photo Gallery
+author: bettylyons
 permalink: /united-nations-photo-gallery/
-published: true
-post_date: 2018-02-27 12:18:24
+tags: []
+date: 2018-02-27 12:18:24
 ---
 a brief photo gallery from the American Indian Law Alliance and Haudenosaunee Confederacy United Nations Meeting.
 

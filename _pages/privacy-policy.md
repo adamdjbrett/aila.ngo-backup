@@ -1,12 +1,7 @@
 ---
-ID: 758
-post_title: Privacy Policy
-author: adamdjbrett
-post_excerpt: ""
-layout: page
-/privacy-policy/
-published: true
-post_date: 2018-02-01 21:11:12
+title: Privacy Policy
+permalink: /privacy-policy/
+date: 2018-02-01 21:11:12
 ---
 <div id="ppHeader">www.ailanyc.org &amp; alia.ngo Privacy Policy</div>
 <div id="ppBody">

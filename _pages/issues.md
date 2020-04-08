@@ -1,12 +1,7 @@
 ---
-ID: 391
-post_title: Issues
-author: adamdjbrett
-post_excerpt: ""
-layout: page
-/issues/
-published: true
-post_date: 2017-10-15 17:21:32
+title: Issues
+permalink: /issues/
+date: 2017-10-15 17:21:32
 ---
 American Indian Law Alliance works on a wide variety of issues facing Indigenous Peoples and Communities, here are key issues and concerns:
 

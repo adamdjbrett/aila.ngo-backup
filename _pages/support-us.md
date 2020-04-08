@@ -1,12 +1,7 @@
 ---
-ID: 508
-post_title: Support Us
-author: adamdjbrett
-post_excerpt: ""
-layout: page
-/support-us/
-published: true
-post_date: 2017-10-15 19:26:00
+title: Support Us
+permalink: /support-us/
+date: 2017-10-15 19:26:00
 ---
 You can support the American Indian Law Alliance (AILA) by assisting us in our direct actions, signing our petitions, and by giving to our organization.
 

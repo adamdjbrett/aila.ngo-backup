@@ -1,14 +1,14 @@
 ---
 ID: 4336
-post_title: >
+title: >
   Urgent Action request to UNOHCHR
   Regional Office for Central America
 author: adamdjbrett
-post_excerpt: ""
-layout: post
+
+
 permalink: /urgent-action-request-to-unhchr-regional-office-for-central-america/
-published: true
-post_date: 2019-05-07 19:05:36
+tags: []
+date: 2019-05-07 19:05:36
 ---
 ### Call for Solidarity and Support of Indigenous Peoples
 

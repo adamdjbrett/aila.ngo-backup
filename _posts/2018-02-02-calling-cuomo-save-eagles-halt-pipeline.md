@@ -1,14 +1,9 @@
 ---
-ID: 809
-post_title: >
-  Calling on Cuomo to save Eagles and halt
-  pipeline
+title: 'Calling on Cuomo to save Eagles and halt pipeline'
 author: adamdjbrett
-post_excerpt: ""
-layout: post
 permalink: /calling-cuomo-save-eagles-halt-pipeline/
-published: true
-post_date: 2018-02-02 00:00:06
+tags: []
+date: 2018-02-02 00:00:06
 ---
 
 Clara Soaring Hawk and Betty Lyons co-wrote an op-ed calling on Governor Cuomo to halt construction on the Millennium Valley Lateral Pipeline out of respect for Mother Earth and to save the Bald Eagles who nest in the area.

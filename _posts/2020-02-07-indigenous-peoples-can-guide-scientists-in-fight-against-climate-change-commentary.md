@@ -1,14 +1,14 @@
 ---
 ID: 6923
-post_title: >
+title: >
   Indigenous peoples can guide scientists
   in fight against climate change
   (Commentary)
 author: adamdjbrett
-post_excerpt: ""
-layout: post
+
+
 permalink: /indigenous-peoples-can-guide-scientists-in-fight-against-climate-change-commentary/
-published: true
-post_date: 2020-02-07 16:10:26
+tags: []
+date: 2020-02-07 16:10:26
 ---
 Executive Director Betty Lyons published an op-ed on Syracuse.com today discussing the importance of caring for mother earth and the work of plant biologist Dr. Robin Kimmerer. Please take a moment to celebrate the work of Dr. Kimmerer and remember our responsibility to mother earth.  [Indigenous peoples can guide scientists in fight against climate change (Commentary)](https://www.syracuse.com/opinion/2020/02/indigenous-peoples-can-guide-scientists-in-fight-against-climate-change-commentary.html).

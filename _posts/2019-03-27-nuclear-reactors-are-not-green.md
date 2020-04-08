@@ -1,12 +1,12 @@
 ---
 ID: 3897
-post_title: 'Nuclear Reactors are not &#8220;Green&#8221;'
+title: 'Nuclear Reactors are not &#8220;Green&#8221;'
 author: adamdjbrett
-post_excerpt: ""
-layout: post
+
+
 permalink: /nuclear-reactors-are-not-green/
-published: true
-post_date: 2019-03-27 17:24:21
+tags: []
+date: 2019-03-27 17:24:21
 ---
 ### A Red Paper by Onondaga Nation, Haudenosaunee Environmental Task Force and American Indian Law Alliance.
 

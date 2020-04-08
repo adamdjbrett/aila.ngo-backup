@@ -1,12 +1,12 @@
 ---
 ID: 4075
-post_title: Spring Social with Silver Cloud Singers
+title: Spring Social with Silver Cloud Singers
 author: adamdjbrett
-post_excerpt: ""
-layout: post
+
+
 permalink: /spring-social-with-silver-cloud-singers/
-published: true
-post_date: 2019-04-12 14:43:26
+tags: []
+date: 2019-04-12 14:43:26
 ---
 Safe Harbors Indigenous Collective, LaMaMa Indigenous Initiative, And American Indian Law Alliance present:
 

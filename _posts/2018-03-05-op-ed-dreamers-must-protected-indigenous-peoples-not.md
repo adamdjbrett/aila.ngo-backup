@@ -1,12 +1,9 @@
 ---
-ID: 966
-post_title: 'Op-Ed: Dreamers must be protected – as Indigenous Peoples were not'
-author: American Indian Law Alliance
-post_excerpt: ""
-layout: post
+title: 'Op-Ed: Dreamers must be protected – as Indigenous Peoples were not'
+author: bettylyons
 permalink: /op-ed-dreamers-must-protected-indigenous-peoples-not/
-published: true
-post_date: 2018-03-05 14:25:13
+tags: []
+date: 2018-03-05 14:25:13
 ---
 We want to share this new op-ed, "[Dreamers Must be Protected - as Indigenous Peoples Were Not](https://www.theguardian.com/commentisfree/2018/mar/03/dreamers-daca-indigenous-peoples-americas)," by Betty Lyons, President of the American Indian Law Alliance, which was published today in The Guardian.
 

@@ -1,12 +1,7 @@
 ---
-ID: 445
-post_title: 'Women&#8217;s Rights'
-author: adamdjbrett
-post_excerpt: ""
-layout: page
-/issues/womens-rights/
-published: true
-post_date: 2017-10-15 18:54:34
+title: 'Women&#8217;s Rights'
+permalink: /issues/womens-rights/
+date: 2017-10-15 18:54:34
 ---
 While serving as President of the National Woman Suffrage Association eighteen years earlier, Matilda Joslyn Gage had published a series of articles on the Iroquois in The New York Evening Post. Introducing the series, the Post editor wrote, “Mrs. Gage, with an exhibition of ardent devotion to the cause of woman’s rights … gives prominence to the fact that … the power and importance of women were recognized by the allied tribes.”
 

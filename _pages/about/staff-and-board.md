@@ -1,12 +1,7 @@
 ---
-ID: 995
-post_title: Staff and Board
-author: American Indian Law Alliance
-post_excerpt: ""
-layout: page
-/staff-and-board/
-published: true
-post_date: 2018-03-07 19:03:48
+title: Staff and Board
+permalink: /staff-and-board/
+date: 2018-03-07 19:03:48
 ---
 [![Betty Lyons](https://aila.ngo/wp-content/uploads/2015/04/IMG_0628.jpg)](https://aila.ngo/wp-content/uploads/2015/04/IMG_0628.jpg)
 

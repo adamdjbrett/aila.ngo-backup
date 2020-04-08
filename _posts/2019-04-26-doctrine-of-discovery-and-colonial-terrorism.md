@@ -1,14 +1,14 @@
 ---
 ID: 4209
-post_title: >
+title: >
   Doctrine of Discovery and Colonial
   Terrorism
 author: adamdjbrett
-post_excerpt: ""
-layout: post
+
+
 permalink: /doctrine-of-discovery-and-colonial-terrorism/
-published: true
-post_date: 2019-04-26 14:38:44
+tags: []
+date: 2019-04-26 14:38:44
 ---
 _The truth, while spoken, never dies._   
 _It is a flame that may rest, smouldering in our bones._   

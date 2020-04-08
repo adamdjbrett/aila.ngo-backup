@@ -1,12 +1,9 @@
 ---
-ID: 411
-post_title: 'Indigenous People&#8217;s Day'
+title: 'Indigenous People&#8217;s Day'
 author: adamdjbrett
-post_excerpt: ""
-layout: post
 permalink: /indigenous-peoples-day/
-published: true
-post_date: 2017-10-15 18:02:31
+tags: []
+date: 2017-10-15 18:02:31
 ---
 > "It all started with Columbus. That is why the movement to rename Oct. 12 as Indigenous Peoples’ Day, and urging inclusion of the Doctrine of Discovery in public education curricula, is so important as part of broader work towards sovereignty, self-determination and full justice for native peoples."
 

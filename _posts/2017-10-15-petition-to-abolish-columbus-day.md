@@ -1,15 +1,12 @@
 ---
-ID: 509
-post_title: Petition to Abolish Columbus Day
+title: Petition to Abolish Columbus Day
 author: adamdjbrett
-post_excerpt: ""
-layout: post
 permalink: /petition-to-abolish-columbus-day/
-published: true
-post_date: 2017-10-15 19:29:18
+tags: []
+date: 2017-10-15 19:29:18
 ---
 Please sign & share widely! [Petition to the City of Syracuse & Onondaga County: Celebrate Indigenous Peoples Day, not Columbus Day!](https://docs.google.com/forms/d/e/1FAIpQLSdN7TCz1WtQfYCA1eu-uMigj9PHyqhyySDqBdx1hHv1RXaEtQ/viewform)     
 
 
 
-header image via: https://rethinkingschoolsblog.com/2015/11/30/help-rethinking-schools-abolish-columbus-day/
+header image via: [rethinkingschoolsblog](https://rethinkingschoolsblog.com/2015/11/30/help-rethinking-schools-abolish-columbus-day/)

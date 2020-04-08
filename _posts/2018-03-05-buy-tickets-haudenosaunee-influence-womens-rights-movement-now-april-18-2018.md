@@ -1,12 +1,9 @@
 ---
-ID: 960
-post_title: 'Buy tickets: Haudenosaunee Influence on Early Feminism'
-author: American Indian Law Alliance
-post_excerpt: ""
-layout: post
+title: 'Buy tickets: Haudenosaunee Influence on Early Feminism'
+author: bettylyons
 permalink: /buy-tickets-haudenosaunee-influence-womens-rights-movement-now-april-18-2018/
-published: true
-post_date: 2018-03-05 14:16:49
+tags: []
+date: 2018-03-05 14:16:49
 ---
 
 

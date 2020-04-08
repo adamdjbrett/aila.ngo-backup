@@ -1,12 +1,7 @@
 ---
-ID: 879
-post_title: About
-author: adamdjbrett
-post_excerpt: ""
-layout: page
-/about/
-published: true
-post_date: 2010-09-23 06:45:44
+title: About
+permalink: /about/
+date: 2010-09-23 06:45:44
 ---
 ### AMERICAN INDIAN LAW ALLIANCE
 
