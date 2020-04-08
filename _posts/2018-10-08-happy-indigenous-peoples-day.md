@@ -2,7 +2,7 @@
 title: 'Happy Indigenous People&#8217;s Day'
 author: bettylyons
 permalink: /happy-indigenous-peoples-day/
-tags: []
+tags: [haudenosaunee, indigenous peoples, sovereignty]
 date: 2018-10-08 13:07:50
 ---
 > Happy Indigenous People’s Day. That is what people are saying today in 90 cities and counties large and small across the country today, ranging from Los Angeles and Phoenix to Ithaca.

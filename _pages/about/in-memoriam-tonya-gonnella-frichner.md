@@ -1,6 +1,5 @@
 ---
 title: 'In Memoriam: Tonya Gonnella Frichner'
-author: adamdjbrett
 permalink: /about/in-memoriam-tonya-gonnella-frichner/
 date: 2017-10-15 18:16:30
 ---

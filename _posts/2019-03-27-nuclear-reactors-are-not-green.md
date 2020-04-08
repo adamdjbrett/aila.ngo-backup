@@ -2,7 +2,7 @@
 title: 'Nuclear Reactors are not &#8220;Green&#8221;'
 author: adamdjbrett
 permalink: /nuclear-reactors-are-not-green/
-tags: []
+tags: [environment, fracking, haudenosaunee, mother earth, nuclear, waterislife]
 date: 2019-03-27 17:24:21
 ---
 ### A Red Paper by Onondaga Nation, Haudenosaunee Environmental Task Force and American Indian Law Alliance.

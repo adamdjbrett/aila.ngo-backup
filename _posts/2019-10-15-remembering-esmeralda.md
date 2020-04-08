@@ -1,8 +1,8 @@
 ---
 title: Remembering Esmeralda
-author: adamdjbrett
+author: bettylyons
 permalink: /remembering-esmeralda/
-tags: []
+tags: [un, united nations, unpfii, aunties, mothers]
 date: 2019-10-15 13:33:47
 ---
 What a gift to know a giant among humans.

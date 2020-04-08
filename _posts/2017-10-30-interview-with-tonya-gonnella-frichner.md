@@ -2,7 +2,7 @@
 title: Interview with Tonya Gonnella Frichner
 author: adamdjbrett
 permalink: /interview-with-tonya-gonnella-frichner/
-tags: []
+tags: [	haudenosaunee, native americans, sovereignty, aila]
 date: 2017-10-30 23:31:23
 ---
 

@@ -2,7 +2,7 @@
 title: NYC, Wells Fargo, and the DAPL
 author: adamdjbrett
 permalink: /nyc-wells-fargo-dapl/
-tags: []
+tags: [Banks, mother earth, nodapl, nyc, water, wells fargo]
 date: 2018-02-02 09:00:31
 ---
 Coverage of our efforts to get NYC to pull money from Wells Fargo over their funding of DAPL: Coverage from event:

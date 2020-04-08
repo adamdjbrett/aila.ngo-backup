@@ -2,7 +2,7 @@
 title: Imposed Borders
 author: adamdjbrett
 permalink: /imposed-borders/
-tags: []
+tags: [events, haudenosaunee, indigenous peoples, native americans, peacemaker, sovereignty, doctrine of discovery, un]
 date: 2019-03-14 15:57:43
 ---
 Imposed Borders of Colonialism: Violence against Indigenous Women, Indigenous Girls and Mother Earth

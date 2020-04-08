@@ -2,7 +2,7 @@
 title: 'Coverage from the People&#8217;s State of the Union'
 author: adamdjbrett
 permalink: /coverage-peoples-state-union/
-tags: []
+tags: [indigenous peoples, peoplesotu]
 date: 2018-02-06 17:21:10
 ---
 
