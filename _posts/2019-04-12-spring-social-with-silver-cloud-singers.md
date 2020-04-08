@@ -1,9 +1,6 @@
 ---
-ID: 4075
 title: Spring Social with Silver Cloud Singers
 author: adamdjbrett
-
-
 permalink: /spring-social-with-silver-cloud-singers/
 tags: []
 date: 2019-04-12 14:43:26

@@ -1,11 +1,6 @@
 ---
-ID: 6141
-title: >
-  Patagonia Storefront in Support of
-  Onondaga Lake
+title: 'Patagonia Storefront in Support of Onondaga Lake'
 author: adamdjbrett
-
-
 permalink: /patagonia-storefront-in-support-of-onondaga-lake/
 tags: []
 date: 2019-11-13 11:08:57

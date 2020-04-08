@@ -1,12 +1,7 @@
 ---
-ID: 4050
-title: >
-  Indigenous Women of the Americas
-  Protecting Mother Earth
+title: 'Indigenous Women of the Americas Protecting Mother Earth'
 author: adamdjbrett
-
-
-permalink: permalink: /indigenous-women-of-the-americas-protecting-mother-earth/
+permalink: /indigenous-women-of-the-americas-protecting-mother-earth/
 tags: []
 date: 2019-04-09 14:28:28
 ---

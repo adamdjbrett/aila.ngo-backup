@@ -1,11 +1,6 @@
 ---
-ID: 4336
-title: >
-  Urgent Action request to UNOHCHR
-  Regional Office for Central America
+title: 'Urgent Action request to UNOHCHR Regional Office for Central America'
 author: adamdjbrett
-
-
 permalink: /urgent-action-request-to-unhchr-regional-office-for-central-america/
 tags: []
 date: 2019-05-07 19:05:36

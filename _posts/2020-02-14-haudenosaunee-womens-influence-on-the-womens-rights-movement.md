@@ -1,9 +1,6 @@
 ---
-ID: 6925
 title: 'Haudenosaunee Women&#8217;s Influence on The Women&#8217;s Rights Movement'
 author: adamdjbrett
-
-
 permalink: /haudenosaunee-womens-influence-on-the-womens-rights-movement/
 tags: []
 date: 2020-02-14 09:18:10

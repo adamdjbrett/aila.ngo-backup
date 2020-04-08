@@ -1,9 +1,6 @@
 ---
-ID: 3788
 title: Imposed Borders
 author: adamdjbrett
-
-
 permalink: /imposed-borders/
 tags: []
 date: 2019-03-14 15:57:43

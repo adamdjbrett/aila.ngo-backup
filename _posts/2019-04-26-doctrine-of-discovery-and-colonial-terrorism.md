@@ -1,11 +1,6 @@
 ---
-ID: 4209
-title: >
-  Doctrine of Discovery and Colonial
-  Terrorism
+title: 'Doctrine of Discovery and Colonial Terrorism'
 author: adamdjbrett
-
-
 permalink: /doctrine-of-discovery-and-colonial-terrorism/
 tags: []
 date: 2019-04-26 14:38:44

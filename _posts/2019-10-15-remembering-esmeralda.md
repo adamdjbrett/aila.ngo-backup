@@ -1,9 +1,6 @@
 ---
-ID: 5837
 title: Remembering Esmeralda
 author: adamdjbrett
-
-
 permalink: /remembering-esmeralda/
 tags: []
 date: 2019-10-15 13:33:47

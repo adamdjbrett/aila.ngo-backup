@@ -1,5 +1,4 @@
 ---
-ID: 586
 title: Interview with Tonya Gonnella Frichner
 author: adamdjbrett
 permalink: /interview-with-tonya-gonnella-frichner/

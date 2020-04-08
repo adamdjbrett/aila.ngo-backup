@@ -1,11 +1,6 @@
 ---
-ID: 2517
-title: >
-  Spectrum News Coverage of the Vigil
-  Against Violence at the border
+title: 'Spectrum News Coverage of the Vigil Against Violence at the border'
 author: adamdjbrett
-
-
 permalink: /spectrum-news-coverage-of-the-vigil-against-violence-at-the-border/
 tags: []
 date: 2018-12-14 15:31:23

@@ -1,12 +1,7 @@
 ---
-ID: 413
 title: 'In Memoriam: Tonya Gonnella Frichner'
 author: adamdjbrett
-post_excerpt: ""
-
-permalink: >
-  https://aila.ngo/about/in-memoriam-tonya-gonnella-frichner/
-
+permalink: /about/in-memoriam-tonya-gonnella-frichner/
 date: 2017-10-15 18:16:30
 ---
 ## Tonya Gonnella Frichner (Onondaga Nation) 1947-2015, Emeritus

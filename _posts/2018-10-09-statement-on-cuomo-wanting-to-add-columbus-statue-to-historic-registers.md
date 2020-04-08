@@ -1,8 +1,5 @@
 ---
-ID: 2133
-title: >
-  Statement on Cuomo wanting to add
-  Columbus statue to historic registers
+title: 'Statement on Cuomo wanting to add Columbus statue to historic registers'
 author: bettylyons
 permalink: /statement-on-cuomo-wanting-to-add-columbus-statue-to-historic-registers/
 tags: []

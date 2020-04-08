@@ -1,12 +1,6 @@
 ---
-ID: 6923
-title: >
-  Indigenous peoples can guide scientists
-  in fight against climate change
-  (Commentary)
+title: 'Indigenous peoples can guide scientists in fight against climate change'
 author: adamdjbrett
-
-
 permalink: /indigenous-peoples-can-guide-scientists-in-fight-against-climate-change-commentary/
 tags: []
 date: 2020-02-07 16:10:26
