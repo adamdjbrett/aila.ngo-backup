@@ -1,0 +1,18 @@
+repo_name: adamdjbrett/aila.ngo
+report_id: b00b70352db6df4b681600a96bf70f79
+repo_type: Public
+timestamp: '2023-11-10T01:44:51+00:00'
+requested_by: adamdjbrett
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
